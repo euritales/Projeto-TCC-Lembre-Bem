@@ -1,0 +1,8 @@
+--CREATE TABLE dependente (
+--    id INT AUTO_INCREMENT PRIMARY KEY,
+--    nome VARCHAR(255) NOT NULL,
+--    data_nascimento DATE,
+--    peso VARCHAR(255),
+--    comorbidade VARCHAR(255),
+--    observacao TEXT
+--);
